@@ -24,6 +24,6 @@
     display: flex;
     gap: 30px;
 }
-p{
+.setting p{
     color: #B5B2B2;
 }
