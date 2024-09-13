@@ -1,0 +1,29 @@
+
+.footer-wrapper{
+    height: 728px;
+    width: 99w;
+    background-color: #000;
+    color: white;
+}
+.footer-design{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    gap: 20px;
+    padding: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.setting{
+    line-height: 70px;
+}
+.setting2{
+    line-height: 170px;
+}
+.latjao{
+    display: flex;
+    gap: 30px;
+}
+p{
+    color: #B5B2B2;
+}

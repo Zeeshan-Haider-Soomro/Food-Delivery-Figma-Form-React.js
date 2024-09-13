@@ -1,0 +1,12 @@
+.header-wrapper{
+    max-width: 1200px;
+    margin: 50px auto;
+}
+.flexation{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.gapation{
+    gap: 30px;
+}

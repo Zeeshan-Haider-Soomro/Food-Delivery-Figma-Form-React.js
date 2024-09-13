@@ -1,0 +1,26 @@
+button{
+    background-color: #E94339;
+    height: 46px;
+    width: 115px;
+    border-radius: 36px;
+    color: white;
+    outline: none;
+    border: 0;
+}
+
+/* 2nd buttons */
+
+.banner-box{
+    width: 166.85px;
+    height: 58px;
+    background-color: #F4F4F4;
+    border-radius: 10.26px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+}
+.box-wrapper{
+    display: flex;
+    gap: 25px;
+}
