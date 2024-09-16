@@ -1,6 +1,6 @@
 
 .footer-wrapper{
-    height: 728px;
+    /* height: 728px; */
     width: 99w;
     background-color: #000;
     color: white;
@@ -13,12 +13,13 @@
     padding: 50px;
     max-width: 1200px;
     margin: 0 auto;
+    align-items: baseline;
 }
 .setting{
-    line-height: 70px;
+    line-height: 40px;
 }
 .setting2{
-    line-height: 170px;
+    line-height: 90px;
 }
 .latjao{
     display: flex;

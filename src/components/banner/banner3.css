@@ -16,3 +16,8 @@
     color: #FF5331;
     position: absolute;
 }
+.card h1{
+    margin-bottom: 240px;
+    margin-right: 80px;
+    mix-blend-mode: overlay;
+}

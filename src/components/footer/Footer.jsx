@@ -40,7 +40,7 @@ const Footer = () => {
             </div>
         </div>
         <div className="footer-design">
-            <div>© 2023 Zeeshan Haider Soomro.All right reserved</div>
+            <div>© <span id="yearChanger">2024</span> Zeeshan Haider Soomro.All right reserved</div>
             <div className="latjao">
                 <p>Privacy</p>
                 <p>Policy</p>
